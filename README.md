@@ -7,6 +7,14 @@
 
 2. Run **`python app.py`** to launch flask application, access predictive the flight delay dashboard and related visualizations
 
+3. Note: postgres must be setup with these credentials:
+> ```
+> user="postgres",
+> password="postgres",
+> host="localhost",
+> port="5432"
+> ```
+
 **`/notebooks`:** Jupyter notebooks containing data preprocessing, feature engineering, model training and analysis of feature selection.
 
 
