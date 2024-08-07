@@ -5,7 +5,7 @@
    
     **Note: **`db.py`:** Creates database containing full dataset (current flask application utilizes the sample database)*
 
-2. Run **`python app.py`** to launch flask application, access predictive the flight delay dashboard and related visualizations
+2. Run **`python app.py`** to launch flask application, access predictive the flight delay dashboard and related visualizations at `http://127.0.0.1:5000`
 
 3. Note: postgres must be setup with these credentials:
 > ```
