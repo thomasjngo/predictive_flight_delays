@@ -16,7 +16,7 @@
 ## Project Overview
 ### Outline
 
-(Resources/dashboard.png)
+![Dashboard](Resources/dashboard.png)
 
 
 Using historical flight and weather data, build a machine learning model that predicts future flight delays and cancellations. The model predictions are supported by an interactive user application that reports the probability of an input flight being delayed, based on a variety of features that have impacted historical delays. Supporting our predictive flight delay dashboard, are interactive visualizations that analyze the historical 2019 flight data to provide further visual summary. Following future improvements and model optimization, our application aims to provide more accurate estimates of departure and arrival times for passengers and airline operations. 
